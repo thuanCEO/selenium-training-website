@@ -1,0 +1,1 @@
+<- Class test thường nếu không dùng Cucumber
