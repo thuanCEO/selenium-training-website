@@ -1,4 +1,4 @@
-package locators;
+package locators.Selenium;
 import org.openqa.selenium.By;
 
 public class SeleniumDocPageLocators {

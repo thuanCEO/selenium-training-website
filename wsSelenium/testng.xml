@@ -6,7 +6,7 @@
 
     <test name="SeleniumDocTest">
         <classes>
-            <class name="tests.SeleniumDocTest"/>
+            <class name="tests.Selenium.SeleniumDocTest"/>
         </classes>
     </test>
 </suite>
