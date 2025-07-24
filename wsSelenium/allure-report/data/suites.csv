@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3418","Verify header title on Selenium documentation page","SeleniumSuite","Thu Jul 24 13:43:39 ICT 2025","passed","Thu Jul 24 13:43:43 ICT 2025","tests.SeleniumDocTest","SeleniumDocTest","tests.SeleniumDocTest","testSeleniumHeaderTitle"
