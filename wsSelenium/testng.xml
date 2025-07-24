@@ -1,11 +1,12 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="SeleniumSuite" parallel="false">
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SeleniumSuite">
+    <listeners>
+        <listener class-name="utils.AllureListener" />
+    </listeners>
 
-    <test name="LoginTests">
+    <test name="SeleniumDocTest">
         <classes>
-<!--            <class name="tests.LoginTest" />-->
-            <!-- Thêm class khác nếu có -->
+            <class name="tests.SeleniumDocTest"/>
         </classes>
     </test>
-
 </suite>
