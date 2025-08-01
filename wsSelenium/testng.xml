@@ -4,9 +4,9 @@
         <listener class-name="utils.AllureListener" />
     </listeners>
 
-    <test name="SeleniumDocTest">
+    <test name="RegisterAccount">
         <classes>
-            <class name="tests.Selenium.SeleniumDocTest"/>
+            <class name="tests.SafeRailway.RegisterAccount"/>
         </classes>
     </test>
 </suite>
