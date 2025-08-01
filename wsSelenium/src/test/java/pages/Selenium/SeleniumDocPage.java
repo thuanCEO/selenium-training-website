@@ -1,8 +1,7 @@
-package pages;
+package pages.Selenium;
 
 import constants.UrlConstants;
-import locators.SeleniumDocPageLocators;
-import org.openqa.selenium.By;
+import locators.Selenium.SeleniumDocPageLocators;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 

@@ -1,10 +1,10 @@
-package tests;
+package tests.Selenium;
 
 import base.BaseTest;
 import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pages.SeleniumDocPage;
+import pages.Selenium.SeleniumDocPage;
 
 @Epic("Selenium Website")
 @Feature("Header Verification")
