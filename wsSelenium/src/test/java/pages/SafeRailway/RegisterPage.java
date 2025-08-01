@@ -9,6 +9,7 @@ import utils.ElementUtil;
 import utils.LocatorLoader;
 
 public class RegisterPage  extends BaseTest {
+
     private ElementUtil elementUtil;
 
     private String elementInputEmail = LocatorLoader.getLocators("inputEmail");
